@@ -20,10 +20,10 @@ from sklearn.metrics.pairwise import cosine_similarity
 # ==========================================
 # CREDENTIALS & TOKENS (Hardcoded / Configurable)
 # ==========================================
-API_KEY = os.environ.get("GEMINI_API_KEY", "AQ.Ab8RN6KsqU6FLBPC0_M9w6ETPbV9L75Zc_QNnL50TZtCnwc1Qg")
-HF_TOKEN = "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"
+API_KEY = os.environ.get("GEMINI_API_KEY", "")
+HF_TOKEN = os.environ.get("HUGGINGFACE_TOKEN", "")
 
-client = genai.Client(api_key=API_KEY)
+client = genai.Client(api_key=API_KEY) if API_KEY else None
 
 
 # ==========================================
