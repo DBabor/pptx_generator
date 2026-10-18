@@ -1,0 +1,12 @@
+==================================================
+    SCIDUET DATASET HUMAN REFERENCE BULLETS       
+==================================================
+
+Slide 1: Introduction & Background
+----------------------------------
+  * different Short title generation task is not so easy
+
+Slide 2: Core Methodology
+-------------------------
+  * Copyright 2019 Yahoo Japan Corporation. All Rights Reserved.
+

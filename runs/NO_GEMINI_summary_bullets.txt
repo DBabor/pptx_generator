@@ -1,0 +1,26 @@
+==================================================
+    SCIDUET DATASET HUMAN REFERENCE BULLETS       
+==================================================
+
+Slide 1: Introduction & Background
+----------------------------------
+  * Two scoring functions are needed in the objective above
+  * :;(=>)--score of event pair having temporal relation
+  * AB(=>)--score of event pair having causal relation C
+
+Slide 2: Core Methodology
+-------------------------
+  * We use the soft-max scores from temporal/causal classifiers (or the log of the soft- max scores)
+  * Choose your favorite model for the classifiers; here: sparse averaged perceptron
+  * Features for a pair of events:
+
+Slide 3: Key Results & Findings
+-------------------------------
+  * POS, token distance Can we use more than just this
+  * local information? modal verbs in-between (i.e., will, would, can, could, may and might)
+  * temporal connectives in-between (e.g., before, after and since)
+
+Slide 4: Key Results & Findings
+-------------------------------
+  * Whether the two verbs have a common synonym from their synsets in WordNet The head word of the preposition phrase that covers each verb
+

@@ -1,0 +1,9 @@
+Required Packages:
+
+- datasets (pip)
+- google-genai
+- pydantic
+- python-pptx
+- rouge-score
+- scikit-learn
+- sentence-transformers

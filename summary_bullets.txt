@@ -1,0 +1,20 @@
+==================================================
+    SCIDUET DATASET HUMAN REFERENCE BULLETS       
+==================================================
+
+Slide 1: Introduction & Background
+----------------------------------
+  * Retrieve Search actual summaries as candidate soft templates
+
+Slide 2: Core Methodology
+-------------------------
+  * Rerank Find out the most proper soft template from the candidates
+
+Slide 3: Key Results & Findings
+-------------------------------
+  * Rewrite Generate the summary based on source sentence and soft template
+
+Slide 4: Key Results & Findings
+-------------------------------
+  * Retrieve Rerank Rewrite Sentence Candidates Template Summary
+

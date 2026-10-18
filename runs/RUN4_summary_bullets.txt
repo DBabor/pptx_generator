@@ -1,0 +1,39 @@
+==================================================
+    SCIDUET DATASET HUMAN REFERENCE BULLETS       
+==================================================
+
+Slide 1: Introduction & Background
+----------------------------------
+  * Placing each Scene in a different sentence.
+  * Fits with event-wise simplification (Glavas and Stajner, 2013)
+  * Here we only use semantic criteria.
+  * It was also investigated in the context of Text Simplification evaluation:
+  * SAMSA measure (Sulem, Abend and Rappoport, NAACL 2018)
+  * A A and He came back home and played piano.
+  * He came back home played piano
+
+Slide 2: Core Methodology
+-------------------------
+  * A A P A A P He came back home. He played piano.
+  * A A P A Input sentence A P Input Scenes He played piano He came back home
+  * P He observed the planet which has 14 satellites.
+  * the R S planet
+  * E C which has
+  * P A He A He observed the planet. Planet has 14 satellites.
+  * observed S E C planet E C has the planet satellites
+
+Slide 3: Key Results & Findings
+-------------------------------
+  * A A the R S SSSciC iSc1Scn planet
+  * Input sentence A Elaborator Scenes A
+  * Input sentence without the Elaborator Scenes, preserving the Minimal Center has the planet satellites
+  * Grammatical errors resulting from the split are not addressed by the rules. e.g., no article regeneration.
+  * The output is directly fed into the NMT component.
+  * Participant Scenes are not separated here to avoid direct splitting in these cases:
+  * His arrival surprised Mary.
+
+Slide 4: Key Results & Findings
+-------------------------------
+  * He said John went to school.
+  * More transformations would be required for splitting in these cases.
+

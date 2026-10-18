@@ -1,0 +1,12 @@
+==================================================
+    SCIDUET DATASET HUMAN REFERENCE BULLETS       
+==================================================
+
+Slide 1: Introduction & Background
+----------------------------------
+  * Each notebook takes $0.5 and each pen takes $1. Tom has
+
+Slide 2: Core Methodology
+-------------------------
+  * $10. How many notebooks can h e buy after buying pens?
+

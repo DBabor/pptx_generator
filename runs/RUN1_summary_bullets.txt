@@ -1,0 +1,16 @@
+==================================================
+    SCIDUET DATASET HUMAN REFERENCE BULLETS       
+==================================================
+
+Slide 1: Introduction & Background
+----------------------------------
+  * Rule For Recognition For Generation
+
+Slide 2: Core Methodology
+-------------------------
+  * Recognition: To find an edge labeling function . The red dashed edges make up an intermediate graph T().
+
+Slide 3: Key Results & Findings
+-------------------------------
+  * of edge ei with variable xij and L with the output string in the statement templates.
+

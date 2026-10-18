@@ -1,0 +1,16 @@
+==================================================
+    SCIDUET DATASET HUMAN REFERENCE BULLETS       
+==================================================
+
+Slide 1: Introduction & Background
+----------------------------------
+  * Not all co-citation linkages are relevant
+
+Slide 2: Core Methodology
+-------------------------
+  * a lot of relevant satellite documents b f
+
+Slide 3: Key Results & Findings
+-------------------------------
+  * Checking the appropriateness of host documents
+
